@@ -1,0 +1,5 @@
+Steps to run Sess-Auth file:
+1. Download and unzip file.
+2. On a mac, open terminal and cd into the folder of the project.
+3. Run the command 'npm run dev' in the terminal.
+4. Open a web browser and navigate to 'http://localhost:3000/'.
